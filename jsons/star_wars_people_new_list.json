@@ -3,259 +3,259 @@
         "id": 0,
         "name": "Luke Skywalker",
         "homeworld": "Tatooine",
-        "pic": "https://static.wikia.nocookie.net/frstarwars/images/f/fa/Luke_TLJ.jpg/revision/latest?cb=20180110093251"
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/cb/cbdd0aa935c5a0e281424920a05c77a2.jpg"
     },
     {
         "id": 1,
         "name": "C-3PO",
         "homeworld": "Tatooine",
-        "pic": "./star_wars/C-3PO.jpg"
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/ed/ed6fb4879f5cf8851434657bfddbdf96.jpg"
     },
     {
         "id": 2,
         "name": "R2-D2",
         "homeworld": "Naboo",
-        "pic": "https://static.wikia.nocookie.net/frstarwars/images/0/0c/R2-D2.png/revision/latest?cb=20161110201414"
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/62/62d06860d21342b3c81c1bfa87abcf5f.jpg"
     },
     {
         "id": 3,
         "name": "Darth Vader",
         "homeworld": "Tatooine",
-        "pic": "https://vignette.wikia.nocookie.net/fr.starwars/images/3/32/Dark_Vador.jpg"
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/c3/c3c8b64dff38ce91b8c3caddce1ee3f3.jpg"
     },
     {
         "id": 4,
         "name": "Leia Organa",
         "homeworld": "Alderaan",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/4a/4adc6f6cb7c86b88cd786677876693c7.jpg"
     },
     {
         "id": 5,
         "name": "Owen Lars",
         "homeworld": "Tatooine",
-        "pic": ""
+        "pic": "https://www.starwars-universe.com/images/encyclopedie/personnages/images_v6/owen_imv6.jpg"
     },
     {
         "id": 6,
         "name": "Beru Whitesun lars",
         "homeworld": "Tatooine",
-        "pic": ""
+        "pic": "https://www.starwars-universe.com/images/encyclopedie/personnages/images_v6/berulars.jpg"
     },
     {
         "id": 7,
         "name": "R5-D4",
         "homeworld": "Tatooine",
-        "pic": ""
+        "pic": "https://videos.cults3d.com/sKIAUzp_XkySHsGM60_guyXrD1s=/516x516/filters:format(webp)/https://files.cults3d.com/uploaders/14379271/illustration-file/26dd60bb-70d5-4370-b197-24a4449331a1/DROIDE%20LOCO.gif"
     },
     {
         "id": 8,
         "name": "Biggs Darklighter",
         "homeworld": "Tatooine",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/9d/9d0b67c91660956a1a140279deaf39ce.jpg"
     },
     {
         "id": 9,
         "name": "Obi-Wan Kenobi",
         "homeworld": "Stewjon",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/c2/c242e219d8c7ef0b6ecb99696b504aca.jpg"
     },
     {
         "id": 10,
         "name": "Anakin Skywalker",
         "homeworld": "Tatooine",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/57/57fba3af3b89110da99fda6c764243d1.jpg"
     },
     {
         "id": 11,
         "name": "Wilhuff Tarkin",
         "homeworld": "Eriadu",
-        "pic": ""
+        "pic": "https://swrpggm.com/wp-content/uploads/2020/01/tarkin.png"
     },
     {
         "id": 12,
         "name": "Chewbacca",
         "homeworld": "Kashyyyk",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/c2/c27d88e02bcbac46c6984f7a4db20712.jpg"
     },
     {
         "id": 13,
         "name": "Han Solo",
         "homeworld": "Corellia",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/24/24111eeea7b6e0df048b0c283453783c.jpg"
     },
     {
         "id": 14,
         "name": "Greedo",
         "homeworld": "Rodia",
-        "pic": ""
+        "pic": "https://img.planete-starwars.com/upload/databank/1/greedo.jpg"
     },
     {
         "id": 15,
         "name": "Jabba Desilijic Tiure",
         "homeworld": "Nal Hutta",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/ea/ea1402ae3148a00996445653684f15df.jpg"
     },
     {
         "id": 16,
         "name": "Wedge Antilles",
         "homeworld": "Corellia",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/50/50ca1efae9864501335484fa06ae9e49.jpg"
     },
     {
         "id": 17,
         "name": "Jek Tono Porkins",
         "homeworld": "Bestine IV",
-        "pic": ""
+        "pic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5ca3930-8cae-41a7-ace8-db0f0161b62f/d9kh6qg-f00f6334-ebcb-4753-b636-2cdeea935868.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U1Y2EzOTMwLThjYWUtNDFhNy1hY2U4LWRiMGYwMTYxYjYyZlwvZDlraDZxZy1mMDBmNjMzNC1lYmNiLTQ3NTMtYjYzNi0yY2RlZWE5MzU4NjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PicgI7aDJne3eaHfb3Jqn_2RbvmGEHSufUFR0woUld4"
     },
     {
         "id": 18,
         "name": "Yoda",
         "homeworld": "unknown",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/0d/0d673c39b8a9c3daa2b2a8259c5b5098.jpg"
     },
     {
         "id": 19,
         "name": "Palpatine",
         "homeworld": "Naboo",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/f2/f2dff45cae1cc6219aa278e636cff8fb.jpg"
     },
     {
         "id": 20,
         "name": "Boba Fett",
         "homeworld": "Kamino",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/f9/f9085a44953abcbf47e4f98473bbcc25.jpg"
     },
     {
         "id": 21,
         "name": "IG-88",
         "homeworld": "unknown",
-        "pic": ""
+        "pic": "https://media.sketchfab.com/models/0c0cf0e3f48d494faa48cdd1797c8333/thumbnails/f601ea35ed754f748681f1a869e7055a/1a717dc5beab43099e8a057899390b22.jpeg"
     },
     {
         "id": 22,
         "name": "Bossk",
         "homeworld": "Trandosha",
-        "pic": ""
+        "pic": "https://www.starwars-holonet.com/holonet/images/2/23/13883/perso_bossk_nc_07.jpg"
     },
     {
         "id": 23,
         "name": "Lando Calrissian",
         "homeworld": "Socorro",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/31/31e568da38f38ba549cc52a800fec146.jpg"
     },
     {
         "id": 24,
         "name": "Lobot",
         "homeworld": "Bespin",
-        "pic": ""
+        "pic": "https://www.starwars-holonet.com/holonet/images/e/ee/14115/perso_lobot_nc_5.jpg"
     },
     {
         "id": 25,
         "name": "Ackbar",
         "homeworld": "Mon Cala",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/d9/d9e946252047078c25d0c68d38f1cd6e.jpg"
     },
     {
         "id": 26,
         "name": "Mon Mothma",
         "homeworld": "Chandrila",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/e4/e4b65cb9f4e28c29f0f77644dbd87a85.jpg"
     },
     {
         "id": 27,
         "name": "Arvel Crynyd",
         "homeworld": "unknown",
-        "pic": ""
+        "pic": "data:image/jpeg;base64,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"
     },
     {
         "id": 28,
         "name": "Wicket Systri Warrick",
         "homeworld": "Endor",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/49/498cfa62ad1a5d032c8fdd44e521a1f3.jpg"
     },
     {
         "id": 29,
         "name": "Nien Nunb",
         "homeworld": "Sullust",
-        "pic": ""
+        "pic": "https://www.starwars-universe.com/images/encyclopedie/personnages/images_v6/nien_imv6.jpg"
     },
     {
         "id": 30,
         "name": "Qui-Gon Jinn",
         "homeworld": "unknown",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/90/904cc23ac13ed41e42e3f89e859abdbd.jpg"
     },
     {
         "id": 31,
         "name": "Nute Gunray",
         "homeworld": "Cato Neimoidia",
-        "pic": ""
+        "pic": "https://img1.starwars-holonet.com/holonet/dictionnaire/photos/perso_gunray_nute_1.jpg"
     },
     {
         "id": 32,
         "name": "Finis Valorum",
         "homeworld": "Coruscant",
-        "pic": ""
+        "pic": "https://pbs.twimg.com/profile_images/1273714675071561734/LOWwnK9D_400x400.jpg"
     },
     {
         "id": 33,
         "name": "Padmé Amidala",
         "homeworld": "Naboo",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/86/86a65fe14e0638d5e6c27174c9bcf40f.jpg"
     },
     {
         "id": 34,
         "name": "Jar Jar Binks",
         "homeworld": "Naboo",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/da/da8bbf2c5ab5a55ebe1e6a7110ef6eeb.jpg"
     },
     {
         "id": 35,
         "name": "Roos Tarpals",
         "homeworld": "Naboo",
-        "pic": ""
+        "pic": "https://www.personality-database.com/profile_images/81993.png"
     },
     {
         "id": 36,
         "name": "Rugor Nass",
         "homeworld": "Naboo",
-        "pic": ""
+        "pic": "https://pbs.twimg.com/profile_images/441401330041516032/pzRYFv6H_400x400.jpeg"
     },
     {
         "id": 37,
         "name": "Ric Olié",
         "homeworld": "Naboo",
-        "pic": ""
+        "pic": "https://img.planete-starwars.com/upload/databank/1/3422_ric.jpg"
     },
     {
         "id": 38,
         "name": "Watto",
         "homeworld": "Toydaria",
-        "pic": ""
+        "pic": "https://img1.starwars-holonet.com/holonet/dictionnaire/photos/perso_watto_1.jpg"
     },
     {
         "id": 39,
         "name": "Sebulba",
         "homeworld": "Malastare",
-        "pic": ""
+        "pic": "https://media.anakinworld.com/uploads/entries/original/personnage-sebulba.jpg"
     },
     {
         "id": 40,
         "name": "Quarsh Panaka",
         "homeworld": "Naboo",
-        "pic": ""
+        "pic": "http://pm1.narvii.com/6401/44f6f4593bcbe8c6d95a156e6c2aabbb2955ef45_00.jpg"
     },
     {
         "id": 41,
         "name": "Shmi Skywalker",
         "homeworld": "Tatooine",
-        "pic": ""
+        "pic": "https://img1.starwars-holonet.com/holonet/dictionnaire/photos/perso_skywalker_shmi.jpg"
     },
     {
         "id": 42,
         "name": "Darth Maul",
         "homeworld": "Dathomir",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/87/87bffb404521daef830fbbe3f10c87d6.jpg"
     },
     {
         "id": 43,
@@ -297,13 +297,13 @@
         "id": 49,
         "name": "Mace Windu",
         "homeworld": "Haruun Kal",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/2b/2bce909e4fb9c903e476ab4f9f20a469.jpg"
     },
     {
         "id": 50,
         "name": "Ki-Adi-Mundi",
         "homeworld": "Cerea",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/71/712795353468771157665327a3704edd.jpg"
     },
     {
         "id": 51,
@@ -465,7 +465,7 @@
         "id": 77,
         "name": "Grievous",
         "homeworld": "Kalee",
-        "pic": ""
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/67/67fd9ae1d2b38464e16cd10cdb54559c.jpg"
     },
     {
         "id": 78,
