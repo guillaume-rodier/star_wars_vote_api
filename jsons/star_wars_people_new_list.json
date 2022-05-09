@@ -1,0 +1,493 @@
+[
+    {
+        "id": 0,
+        "name": "Luke Skywalker",
+        "homeworld": "Tatooine",
+        "pic": "https://static.wikia.nocookie.net/frstarwars/images/f/fa/Luke_TLJ.jpg/revision/latest?cb=20180110093251"
+    },
+    {
+        "id": 1,
+        "name": "C-3PO",
+        "homeworld": "Tatooine",
+        "pic": "./star_wars/C-3PO.jpg"
+    },
+    {
+        "id": 2,
+        "name": "R2-D2",
+        "homeworld": "Naboo",
+        "pic": "https://static.wikia.nocookie.net/frstarwars/images/0/0c/R2-D2.png/revision/latest?cb=20161110201414"
+    },
+    {
+        "id": 3,
+        "name": "Darth Vader",
+        "homeworld": "Tatooine",
+        "pic": "https://vignette.wikia.nocookie.net/fr.starwars/images/3/32/Dark_Vador.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Leia Organa",
+        "homeworld": "Alderaan",
+        "pic": ""
+    },
+    {
+        "id": 5,
+        "name": "Owen Lars",
+        "homeworld": "Tatooine",
+        "pic": ""
+    },
+    {
+        "id": 6,
+        "name": "Beru Whitesun lars",
+        "homeworld": "Tatooine",
+        "pic": ""
+    },
+    {
+        "id": 7,
+        "name": "R5-D4",
+        "homeworld": "Tatooine",
+        "pic": ""
+    },
+    {
+        "id": 8,
+        "name": "Biggs Darklighter",
+        "homeworld": "Tatooine",
+        "pic": ""
+    },
+    {
+        "id": 9,
+        "name": "Obi-Wan Kenobi",
+        "homeworld": "Stewjon",
+        "pic": ""
+    },
+    {
+        "id": 10,
+        "name": "Anakin Skywalker",
+        "homeworld": "Tatooine",
+        "pic": ""
+    },
+    {
+        "id": 11,
+        "name": "Wilhuff Tarkin",
+        "homeworld": "Eriadu",
+        "pic": ""
+    },
+    {
+        "id": 12,
+        "name": "Chewbacca",
+        "homeworld": "Kashyyyk",
+        "pic": ""
+    },
+    {
+        "id": 13,
+        "name": "Han Solo",
+        "homeworld": "Corellia",
+        "pic": ""
+    },
+    {
+        "id": 14,
+        "name": "Greedo",
+        "homeworld": "Rodia",
+        "pic": ""
+    },
+    {
+        "id": 15,
+        "name": "Jabba Desilijic Tiure",
+        "homeworld": "Nal Hutta",
+        "pic": ""
+    },
+    {
+        "id": 16,
+        "name": "Wedge Antilles",
+        "homeworld": "Corellia",
+        "pic": ""
+    },
+    {
+        "id": 17,
+        "name": "Jek Tono Porkins",
+        "homeworld": "Bestine IV",
+        "pic": ""
+    },
+    {
+        "id": 18,
+        "name": "Yoda",
+        "homeworld": "unknown",
+        "pic": ""
+    },
+    {
+        "id": 19,
+        "name": "Palpatine",
+        "homeworld": "Naboo",
+        "pic": ""
+    },
+    {
+        "id": 20,
+        "name": "Boba Fett",
+        "homeworld": "Kamino",
+        "pic": ""
+    },
+    {
+        "id": 21,
+        "name": "IG-88",
+        "homeworld": "unknown",
+        "pic": ""
+    },
+    {
+        "id": 22,
+        "name": "Bossk",
+        "homeworld": "Trandosha",
+        "pic": ""
+    },
+    {
+        "id": 23,
+        "name": "Lando Calrissian",
+        "homeworld": "Socorro",
+        "pic": ""
+    },
+    {
+        "id": 24,
+        "name": "Lobot",
+        "homeworld": "Bespin",
+        "pic": ""
+    },
+    {
+        "id": 25,
+        "name": "Ackbar",
+        "homeworld": "Mon Cala",
+        "pic": ""
+    },
+    {
+        "id": 26,
+        "name": "Mon Mothma",
+        "homeworld": "Chandrila",
+        "pic": ""
+    },
+    {
+        "id": 27,
+        "name": "Arvel Crynyd",
+        "homeworld": "unknown",
+        "pic": ""
+    },
+    {
+        "id": 28,
+        "name": "Wicket Systri Warrick",
+        "homeworld": "Endor",
+        "pic": ""
+    },
+    {
+        "id": 29,
+        "name": "Nien Nunb",
+        "homeworld": "Sullust",
+        "pic": ""
+    },
+    {
+        "id": 30,
+        "name": "Qui-Gon Jinn",
+        "homeworld": "unknown",
+        "pic": ""
+    },
+    {
+        "id": 31,
+        "name": "Nute Gunray",
+        "homeworld": "Cato Neimoidia",
+        "pic": ""
+    },
+    {
+        "id": 32,
+        "name": "Finis Valorum",
+        "homeworld": "Coruscant",
+        "pic": ""
+    },
+    {
+        "id": 33,
+        "name": "Padmé Amidala",
+        "homeworld": "Naboo",
+        "pic": ""
+    },
+    {
+        "id": 34,
+        "name": "Jar Jar Binks",
+        "homeworld": "Naboo",
+        "pic": ""
+    },
+    {
+        "id": 35,
+        "name": "Roos Tarpals",
+        "homeworld": "Naboo",
+        "pic": ""
+    },
+    {
+        "id": 36,
+        "name": "Rugor Nass",
+        "homeworld": "Naboo",
+        "pic": ""
+    },
+    {
+        "id": 37,
+        "name": "Ric Olié",
+        "homeworld": "Naboo",
+        "pic": ""
+    },
+    {
+        "id": 38,
+        "name": "Watto",
+        "homeworld": "Toydaria",
+        "pic": ""
+    },
+    {
+        "id": 39,
+        "name": "Sebulba",
+        "homeworld": "Malastare",
+        "pic": ""
+    },
+    {
+        "id": 40,
+        "name": "Quarsh Panaka",
+        "homeworld": "Naboo",
+        "pic": ""
+    },
+    {
+        "id": 41,
+        "name": "Shmi Skywalker",
+        "homeworld": "Tatooine",
+        "pic": ""
+    },
+    {
+        "id": 42,
+        "name": "Darth Maul",
+        "homeworld": "Dathomir",
+        "pic": ""
+    },
+    {
+        "id": 43,
+        "name": "Bib Fortuna",
+        "homeworld": "Ryloth",
+        "pic": ""
+    },
+    {
+        "id": 44,
+        "name": "Ayla Secura",
+        "homeworld": "Ryloth",
+        "pic": ""
+    },
+    {
+        "id": 45,
+        "name": "Ratts Tyerel",
+        "homeworld": "Aleen Minor",
+        "pic": ""
+    },
+    {
+        "id": 46,
+        "name": "Dud Bolt",
+        "homeworld": "Vulpter",
+        "pic": ""
+    },
+    {
+        "id": 47,
+        "name": "Gasgano",
+        "homeworld": "Troiken",
+        "pic": ""
+    },
+    {
+        "id": 48,
+        "name": "Ben Quadinaros",
+        "homeworld": "Tund",
+        "pic": ""
+    },
+    {
+        "id": 49,
+        "name": "Mace Windu",
+        "homeworld": "Haruun Kal",
+        "pic": ""
+    },
+    {
+        "id": 50,
+        "name": "Ki-Adi-Mundi",
+        "homeworld": "Cerea",
+        "pic": ""
+    },
+    {
+        "id": 51,
+        "name": "Kit Fisto",
+        "homeworld": "Glee Anselm",
+        "pic": ""
+    },
+    {
+        "id": 52,
+        "name": "Eeth Koth",
+        "homeworld": "Iridonia",
+        "pic": ""
+    },
+    {
+        "id": 53,
+        "name": "Adi Gallia",
+        "homeworld": "Coruscant",
+        "pic": ""
+    },
+    {
+        "id": 54,
+        "name": "Saesee Tiin",
+        "homeworld": "Iktotch",
+        "pic": ""
+    },
+    {
+        "id": 55,
+        "name": "Yarael Poof",
+        "homeworld": "Quermia",
+        "pic": ""
+    },
+    {
+        "id": 56,
+        "name": "Plo Koon",
+        "homeworld": "Dorin",
+        "pic": ""
+    },
+    {
+        "id": 57,
+        "name": "Mas Amedda",
+        "homeworld": "Champala",
+        "pic": ""
+    },
+    {
+        "id": 58,
+        "name": "Gregar Typho",
+        "homeworld": "Naboo",
+        "pic": ""
+    },
+    {
+        "id": 59,
+        "name": "Cordé",
+        "homeworld": "Naboo",
+        "pic": ""
+    },
+    {
+        "id": 60,
+        "name": "Cliegg Lars",
+        "homeworld": "Tatooine",
+        "pic": ""
+    },
+    {
+        "id": 61,
+        "name": "Poggle the Lesser",
+        "homeworld": "Geonosis",
+        "pic": ""
+    },
+    {
+        "id": 62,
+        "name": "Luminara Unduli",
+        "homeworld": "Mirial",
+        "pic": ""
+    },
+    {
+        "id": 63,
+        "name": "Barriss Offee",
+        "homeworld": "Mirial",
+        "pic": ""
+    },
+    {
+        "id": 64,
+        "name": "Dormé",
+        "homeworld": "Naboo",
+        "pic": ""
+    },
+    {
+        "id": 65,
+        "name": "Dooku",
+        "homeworld": "Serenno",
+        "pic": ""
+    },
+    {
+        "id": 66,
+        "name": "Bail Prestor Organa",
+        "homeworld": "Alderaan",
+        "pic": ""
+    },
+    {
+        "id": 67,
+        "name": "Jango Fett",
+        "homeworld": "Concord Dawn",
+        "pic": ""
+    },
+    {
+        "id": 68,
+        "name": "Zam Wesell",
+        "homeworld": "Zolan",
+        "pic": ""
+    },
+    {
+        "id": 69,
+        "name": "Dexter Jettster",
+        "homeworld": "Ojom",
+        "pic": ""
+    },
+    {
+        "id": 70,
+        "name": "Lama Su",
+        "homeworld": "Kamino",
+        "pic": ""
+    },
+    {
+        "id": 71,
+        "name": "Taun We",
+        "homeworld": "Kamino",
+        "pic": ""
+    },
+    {
+        "id": 72,
+        "name": "Jocasta Nu",
+        "homeworld": "Coruscant",
+        "pic": ""
+    },
+    {
+        "id": 73,
+        "name": "R4-P17",
+        "homeworld": "unknown",
+        "pic": ""
+    },
+    {
+        "id": 74,
+        "name": "Wat Tambor",
+        "homeworld": "Skako",
+        "pic": ""
+    },
+    {
+        "id": 75,
+        "name": "San Hill",
+        "homeworld": "Muunilinst",
+        "pic": ""
+    },
+    {
+        "id": 76,
+        "name": "Shaak Ti",
+        "homeworld": "Shili",
+        "pic": ""
+    },
+    {
+        "id": 77,
+        "name": "Grievous",
+        "homeworld": "Kalee",
+        "pic": ""
+    },
+    {
+        "id": 78,
+        "name": "Tarfful",
+        "homeworld": "Kashyyyk",
+        "pic": ""
+    },
+    {
+        "id": 79,
+        "name": "Raymus Antilles",
+        "homeworld": "Alderaan",
+        "pic": ""
+    },
+    {
+        "id": 80,
+        "name": "Sly Moore",
+        "homeworld": "Umbara",
+        "pic": ""
+    },
+    {
+        "id": 81,
+        "name": "Tion Medon",
+        "homeworld": "Utapau"
+    }
+]
