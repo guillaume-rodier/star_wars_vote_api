@@ -1,1895 +1,494 @@
 [
     {
+        "id": 0,
         "name": "Luke Skywalker",
-        "height": "172",
-        "mass": "77",
-        "hair_color": "blond",
-        "skin_color": "fair",
-        "eye_color": "blue",
-        "birth_year": "19BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/1/",
-        "films": [
-            "https://swapi.dev/api/films/1/",
-            "https://swapi.dev/api/films/2/",
-            "https://swapi.dev/api/films/3/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [],
-        "vehicles": [
-            "https://swapi.dev/api/vehicles/14/",
-            "https://swapi.dev/api/vehicles/30/"
-        ],
-        "starships": [
-            "https://swapi.dev/api/starships/12/",
-            "https://swapi.dev/api/starships/22/"
-        ],
-        "created": "2014-12-09T13:50:51.644000Z",
-        "edited": "2014-12-20T21:17:56.891000Z",
-        "url": "https://swapi.dev/api/people/1/"
+        "homeworld": "Tatooine",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/cb/cbdd0aa935c5a0e281424920a05c77a2.jpg"
     },
     {
+        "id": 1,
         "name": "C-3PO",
-        "height": "167",
-        "mass": "75",
-        "hair_color": "n/a",
-        "skin_color": "gold",
-        "eye_color": "yellow",
-        "birth_year": "112BBY",
-        "gender": "n/a",
-        "homeworld": "https://swapi.dev/api/planets/1/",
-        "films": [
-            "https://swapi.dev/api/films/1/",
-            "https://swapi.dev/api/films/2/",
-            "https://swapi.dev/api/films/3/",
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/2/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-10T15:10:51.357000Z",
-        "edited": "2014-12-20T21:17:50.309000Z",
-        "url": "https://swapi.dev/api/people/2/"
+        "homeworld": "Tatooine",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/ed/ed6fb4879f5cf8851434657bfddbdf96.jpg"
     },
     {
+        "id": 2,
         "name": "R2-D2",
-        "height": "96",
-        "mass": "32",
-        "hair_color": "n/a",
-        "skin_color": "white, blue",
-        "eye_color": "red",
-        "birth_year": "33BBY",
-        "gender": "n/a",
-        "homeworld": "https://swapi.dev/api/planets/8/",
-        "films": [
-            "https://swapi.dev/api/films/1/",
-            "https://swapi.dev/api/films/2/",
-            "https://swapi.dev/api/films/3/",
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/2/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-10T15:11:50.376000Z",
-        "edited": "2014-12-20T21:17:50.311000Z",
-        "url": "https://swapi.dev/api/people/3/"
+        "homeworld": "Naboo",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/62/62d06860d21342b3c81c1bfa87abcf5f.jpg"
     },
     {
+        "id": 3,
         "name": "Darth Vader",
-        "height": "202",
-        "mass": "136",
-        "hair_color": "none",
-        "skin_color": "white",
-        "eye_color": "yellow",
-        "birth_year": "41.9BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/1/",
-        "films": [
-            "https://swapi.dev/api/films/1/",
-            "https://swapi.dev/api/films/2/",
-            "https://swapi.dev/api/films/3/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [
-            "https://swapi.dev/api/starships/13/"
-        ],
-        "created": "2014-12-10T15:18:20.704000Z",
-        "edited": "2014-12-20T21:17:50.313000Z",
-        "url": "https://swapi.dev/api/people/4/"
+        "homeworld": "Tatooine",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/c3/c3c8b64dff38ce91b8c3caddce1ee3f3.jpg"
     },
     {
+        "id": 4,
         "name": "Leia Organa",
-        "height": "150",
-        "mass": "49",
-        "hair_color": "brown",
-        "skin_color": "light",
-        "eye_color": "brown",
-        "birth_year": "19BBY",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/2/",
-        "films": [
-            "https://swapi.dev/api/films/1/",
-            "https://swapi.dev/api/films/2/",
-            "https://swapi.dev/api/films/3/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [],
-        "vehicles": [
-            "https://swapi.dev/api/vehicles/30/"
-        ],
-        "starships": [],
-        "created": "2014-12-10T15:20:09.791000Z",
-        "edited": "2014-12-20T21:17:50.315000Z",
-        "url": "https://swapi.dev/api/people/5/"
+        "homeworld": "Alderaan",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/4a/4adc6f6cb7c86b88cd786677876693c7.jpg"
     },
     {
+        "id": 5,
         "name": "Owen Lars",
-        "height": "178",
-        "mass": "120",
-        "hair_color": "brown, grey",
-        "skin_color": "light",
-        "eye_color": "blue",
-        "birth_year": "52BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/1/",
-        "films": [
-            "https://swapi.dev/api/films/1/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-10T15:52:14.024000Z",
-        "edited": "2014-12-20T21:17:50.317000Z",
-        "url": "https://swapi.dev/api/people/6/"
+        "homeworld": "Tatooine",
+        "pic": "https://www.starwars-universe.com/images/encyclopedie/personnages/images_v6/owen_imv6.jpg"
     },
     {
+        "id": 6,
         "name": "Beru Whitesun lars",
-        "height": "165",
-        "mass": "75",
-        "hair_color": "brown",
-        "skin_color": "light",
-        "eye_color": "blue",
-        "birth_year": "47BBY",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/1/",
-        "films": [
-            "https://swapi.dev/api/films/1/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-10T15:53:41.121000Z",
-        "edited": "2014-12-20T21:17:50.319000Z",
-        "url": "https://swapi.dev/api/people/7/"
+        "homeworld": "Tatooine",
+        "pic": "https://www.starwars-universe.com/images/encyclopedie/personnages/images_v6/berulars.jpg"
     },
     {
+        "id": 7,
         "name": "R5-D4",
-        "height": "97",
-        "mass": "32",
-        "hair_color": "n/a",
-        "skin_color": "white, red",
-        "eye_color": "red",
-        "birth_year": "unknown",
-        "gender": "n/a",
-        "homeworld": "https://swapi.dev/api/planets/1/",
-        "films": [
-            "https://swapi.dev/api/films/1/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/2/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-10T15:57:50.959000Z",
-        "edited": "2014-12-20T21:17:50.321000Z",
-        "url": "https://swapi.dev/api/people/8/"
+        "homeworld": "Tatooine",
+        "pic": "https://videos.cults3d.com/sKIAUzp_XkySHsGM60_guyXrD1s=/516x516/filters:format(webp)/https://files.cults3d.com/uploaders/14379271/illustration-file/26dd60bb-70d5-4370-b197-24a4449331a1/DROIDE%20LOCO.gif"
     },
     {
+        "id": 8,
         "name": "Biggs Darklighter",
-        "height": "183",
-        "mass": "84",
-        "hair_color": "black",
-        "skin_color": "light",
-        "eye_color": "brown",
-        "birth_year": "24BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/1/",
-        "films": [
-            "https://swapi.dev/api/films/1/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [
-            "https://swapi.dev/api/starships/12/"
-        ],
-        "created": "2014-12-10T15:59:50.509000Z",
-        "edited": "2014-12-20T21:17:50.323000Z",
-        "url": "https://swapi.dev/api/people/9/"
+        "homeworld": "Tatooine",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/9d/9d0b67c91660956a1a140279deaf39ce.jpg"
     },
     {
+        "id": 9,
         "name": "Obi-Wan Kenobi",
-        "height": "182",
-        "mass": "77",
-        "hair_color": "auburn, white",
-        "skin_color": "fair",
-        "eye_color": "blue-gray",
-        "birth_year": "57BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/20/",
-        "films": [
-            "https://swapi.dev/api/films/1/",
-            "https://swapi.dev/api/films/2/",
-            "https://swapi.dev/api/films/3/",
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [],
-        "vehicles": [
-            "https://swapi.dev/api/vehicles/38/"
-        ],
-        "starships": [
-            "https://swapi.dev/api/starships/48/",
-            "https://swapi.dev/api/starships/59/",
-            "https://swapi.dev/api/starships/64/",
-            "https://swapi.dev/api/starships/65/",
-            "https://swapi.dev/api/starships/74/"
-        ],
-        "created": "2014-12-10T16:16:29.192000Z",
-        "edited": "2014-12-20T21:17:50.325000Z",
-        "url": "https://swapi.dev/api/people/10/"
+        "homeworld": "Stewjon",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/c2/c242e219d8c7ef0b6ecb99696b504aca.jpg"
     },
     {
+        "id": 10,
         "name": "Anakin Skywalker",
-        "height": "188",
-        "mass": "84",
-        "hair_color": "blond",
-        "skin_color": "fair",
-        "eye_color": "blue",
-        "birth_year": "41.9BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/1/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [],
-        "vehicles": [
-            "https://swapi.dev/api/vehicles/44/",
-            "https://swapi.dev/api/vehicles/46/"
-        ],
-        "starships": [
-            "https://swapi.dev/api/starships/39/",
-            "https://swapi.dev/api/starships/59/",
-            "https://swapi.dev/api/starships/65/"
-        ],
-        "created": "2014-12-10T16:20:44.310000Z",
-        "edited": "2014-12-20T21:17:50.327000Z",
-        "url": "https://swapi.dev/api/people/11/"
+        "homeworld": "Tatooine",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/57/57fba3af3b89110da99fda6c764243d1.jpg"
     },
     {
+        "id": 11,
         "name": "Wilhuff Tarkin",
-        "height": "180",
-        "mass": "unknown",
-        "hair_color": "auburn, grey",
-        "skin_color": "fair",
-        "eye_color": "blue",
-        "birth_year": "64BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/21/",
-        "films": [
-            "https://swapi.dev/api/films/1/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-10T16:26:56.138000Z",
-        "edited": "2014-12-20T21:17:50.330000Z",
-        "url": "https://swapi.dev/api/people/12/"
+        "homeworld": "Eriadu",
+        "pic": "https://swrpggm.com/wp-content/uploads/2020/01/tarkin.png"
     },
     {
+        "id": 12,
         "name": "Chewbacca",
-        "height": "228",
-        "mass": "112",
-        "hair_color": "brown",
-        "skin_color": "unknown",
-        "eye_color": "blue",
-        "birth_year": "200BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/14/",
-        "films": [
-            "https://swapi.dev/api/films/1/",
-            "https://swapi.dev/api/films/2/",
-            "https://swapi.dev/api/films/3/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/3/"
-        ],
-        "vehicles": [
-            "https://swapi.dev/api/vehicles/19/"
-        ],
-        "starships": [
-            "https://swapi.dev/api/starships/10/",
-            "https://swapi.dev/api/starships/22/"
-        ],
-        "created": "2014-12-10T16:42:45.066000Z",
-        "edited": "2014-12-20T21:17:50.332000Z",
-        "url": "https://swapi.dev/api/people/13/"
+        "homeworld": "Kashyyyk",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/c2/c27d88e02bcbac46c6984f7a4db20712.jpg"
     },
     {
+        "id": 13,
         "name": "Han Solo",
-        "height": "180",
-        "mass": "80",
-        "hair_color": "brown",
-        "skin_color": "fair",
-        "eye_color": "brown",
-        "birth_year": "29BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/22/",
-        "films": [
-            "https://swapi.dev/api/films/1/",
-            "https://swapi.dev/api/films/2/",
-            "https://swapi.dev/api/films/3/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [
-            "https://swapi.dev/api/starships/10/",
-            "https://swapi.dev/api/starships/22/"
-        ],
-        "created": "2014-12-10T16:49:14.582000Z",
-        "edited": "2014-12-20T21:17:50.334000Z",
-        "url": "https://swapi.dev/api/people/14/"
+        "homeworld": "Corellia",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/24/24111eeea7b6e0df048b0c283453783c.jpg"
     },
     {
+        "id": 14,
         "name": "Greedo",
-        "height": "173",
-        "mass": "74",
-        "hair_color": "n/a",
-        "skin_color": "green",
-        "eye_color": "black",
-        "birth_year": "44BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/23/",
-        "films": [
-            "https://swapi.dev/api/films/1/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/4/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-10T17:03:30.334000Z",
-        "edited": "2014-12-20T21:17:50.336000Z",
-        "url": "https://swapi.dev/api/people/15/"
+        "homeworld": "Rodia",
+        "pic": "https://img.planete-starwars.com/upload/databank/1/greedo.jpg"
     },
     {
+        "id": 15,
         "name": "Jabba Desilijic Tiure",
-        "height": "175",
-        "mass": "1,358",
-        "hair_color": "n/a",
-        "skin_color": "green-tan, brown",
-        "eye_color": "orange",
-        "birth_year": "600BBY",
-        "gender": "hermaphrodite",
-        "homeworld": "https://swapi.dev/api/planets/24/",
-        "films": [
-            "https://swapi.dev/api/films/1/",
-            "https://swapi.dev/api/films/3/",
-            "https://swapi.dev/api/films/4/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/5/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-10T17:11:31.638000Z",
-        "edited": "2014-12-20T21:17:50.338000Z",
-        "url": "https://swapi.dev/api/people/16/"
+        "homeworld": "Nal Hutta",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/ea/ea1402ae3148a00996445653684f15df.jpg"
     },
     {
+        "id": 16,
         "name": "Wedge Antilles",
-        "height": "170",
-        "mass": "77",
-        "hair_color": "brown",
-        "skin_color": "fair",
-        "eye_color": "hazel",
-        "birth_year": "21BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/22/",
-        "films": [
-            "https://swapi.dev/api/films/1/",
-            "https://swapi.dev/api/films/2/",
-            "https://swapi.dev/api/films/3/"
-        ],
-        "species": [],
-        "vehicles": [
-            "https://swapi.dev/api/vehicles/14/"
-        ],
-        "starships": [
-            "https://swapi.dev/api/starships/12/"
-        ],
-        "created": "2014-12-12T11:08:06.469000Z",
-        "edited": "2014-12-20T21:17:50.341000Z",
-        "url": "https://swapi.dev/api/people/18/"
+        "homeworld": "Corellia",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/50/50ca1efae9864501335484fa06ae9e49.jpg"
     },
     {
+        "id": 17,
         "name": "Jek Tono Porkins",
-        "height": "180",
-        "mass": "110",
-        "hair_color": "brown",
-        "skin_color": "fair",
-        "eye_color": "blue",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/26/",
-        "films": [
-            "https://swapi.dev/api/films/1/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [
-            "https://swapi.dev/api/starships/12/"
-        ],
-        "created": "2014-12-12T11:16:56.569000Z",
-        "edited": "2014-12-20T21:17:50.343000Z",
-        "url": "https://swapi.dev/api/people/19/"
+        "homeworld": "Bestine IV",
+        "pic": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5ca3930-8cae-41a7-ace8-db0f0161b62f/d9kh6qg-f00f6334-ebcb-4753-b636-2cdeea935868.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U1Y2EzOTMwLThjYWUtNDFhNy1hY2U4LWRiMGYwMTYxYjYyZlwvZDlraDZxZy1mMDBmNjMzNC1lYmNiLTQ3NTMtYjYzNi0yY2RlZWE5MzU4NjgucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PicgI7aDJne3eaHfb3Jqn_2RbvmGEHSufUFR0woUld4"
     },
     {
+        "id": 18,
         "name": "Yoda",
-        "height": "66",
-        "mass": "17",
-        "hair_color": "white",
-        "skin_color": "green",
-        "eye_color": "brown",
-        "birth_year": "896BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/28/",
-        "films": [
-            "https://swapi.dev/api/films/2/",
-            "https://swapi.dev/api/films/3/",
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/6/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-15T12:26:01.042000Z",
-        "edited": "2014-12-20T21:17:50.345000Z",
-        "url": "https://swapi.dev/api/people/20/"
+        "homeworld": "unknown",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/0d/0d673c39b8a9c3daa2b2a8259c5b5098.jpg"
     },
     {
+        "id": 19,
         "name": "Palpatine",
-        "height": "170",
-        "mass": "75",
-        "hair_color": "grey",
-        "skin_color": "pale",
-        "eye_color": "yellow",
-        "birth_year": "82BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/8/",
-        "films": [
-            "https://swapi.dev/api/films/2/",
-            "https://swapi.dev/api/films/3/",
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-15T12:48:05.971000Z",
-        "edited": "2014-12-20T21:17:50.347000Z",
-        "url": "https://swapi.dev/api/people/21/"
+        "homeworld": "Naboo",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/f2/f2dff45cae1cc6219aa278e636cff8fb.jpg"
     },
     {
+        "id": 20,
         "name": "Boba Fett",
-        "height": "183",
-        "mass": "78.2",
-        "hair_color": "black",
-        "skin_color": "fair",
-        "eye_color": "brown",
-        "birth_year": "31.5BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/10/",
-        "films": [
-            "https://swapi.dev/api/films/2/",
-            "https://swapi.dev/api/films/3/",
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [
-            "https://swapi.dev/api/starships/21/"
-        ],
-        "created": "2014-12-15T12:49:32.457000Z",
-        "edited": "2014-12-20T21:17:50.349000Z",
-        "url": "https://swapi.dev/api/people/22/"
+        "homeworld": "Kamino",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/f9/f9085a44953abcbf47e4f98473bbcc25.jpg"
     },
     {
+        "id": 21,
         "name": "IG-88",
-        "height": "200",
-        "mass": "140",
-        "hair_color": "none",
-        "skin_color": "metal",
-        "eye_color": "red",
-        "birth_year": "15BBY",
-        "gender": "none",
-        "homeworld": "https://swapi.dev/api/planets/28/",
-        "films": [
-            "https://swapi.dev/api/films/2/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/2/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-15T12:51:10.076000Z",
-        "edited": "2014-12-20T21:17:50.351000Z",
-        "url": "https://swapi.dev/api/people/23/"
+        "homeworld": "unknown",
+        "pic": "https://media.sketchfab.com/models/0c0cf0e3f48d494faa48cdd1797c8333/thumbnails/f601ea35ed754f748681f1a869e7055a/1a717dc5beab43099e8a057899390b22.jpeg"
     },
     {
+        "id": 22,
         "name": "Bossk",
-        "height": "190",
-        "mass": "113",
-        "hair_color": "none",
-        "skin_color": "green",
-        "eye_color": "red",
-        "birth_year": "53BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/29/",
-        "films": [
-            "https://swapi.dev/api/films/2/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/7/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-15T12:53:49.297000Z",
-        "edited": "2014-12-20T21:17:50.355000Z",
-        "url": "https://swapi.dev/api/people/24/"
+        "homeworld": "Trandosha",
+        "pic": "https://www.starwars-holonet.com/holonet/images/2/23/13883/perso_bossk_nc_07.jpg"
     },
     {
+        "id": 23,
         "name": "Lando Calrissian",
-        "height": "177",
-        "mass": "79",
-        "hair_color": "black",
-        "skin_color": "dark",
-        "eye_color": "brown",
-        "birth_year": "31BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/30/",
-        "films": [
-            "https://swapi.dev/api/films/2/",
-            "https://swapi.dev/api/films/3/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [
-            "https://swapi.dev/api/starships/10/"
-        ],
-        "created": "2014-12-15T12:56:32.683000Z",
-        "edited": "2014-12-20T21:17:50.357000Z",
-        "url": "https://swapi.dev/api/people/25/"
+        "homeworld": "Socorro",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/31/31e568da38f38ba549cc52a800fec146.jpg"
     },
     {
+        "id": 24,
         "name": "Lobot",
-        "height": "175",
-        "mass": "79",
-        "hair_color": "none",
-        "skin_color": "light",
-        "eye_color": "blue",
-        "birth_year": "37BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/6/",
-        "films": [
-            "https://swapi.dev/api/films/2/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-15T13:01:57.178000Z",
-        "edited": "2014-12-20T21:17:50.359000Z",
-        "url": "https://swapi.dev/api/people/26/"
+        "homeworld": "Bespin",
+        "pic": "https://www.starwars-holonet.com/holonet/images/e/ee/14115/perso_lobot_nc_5.jpg"
     },
     {
+        "id": 25,
         "name": "Ackbar",
-        "height": "180",
-        "mass": "83",
-        "hair_color": "none",
-        "skin_color": "brown mottle",
-        "eye_color": "orange",
-        "birth_year": "41BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/31/",
-        "films": [
-            "https://swapi.dev/api/films/3/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/8/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-18T11:07:50.584000Z",
-        "edited": "2014-12-20T21:17:50.362000Z",
-        "url": "https://swapi.dev/api/people/27/"
+        "homeworld": "Mon Cala",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/d9/d9e946252047078c25d0c68d38f1cd6e.jpg"
     },
     {
+        "id": 26,
         "name": "Mon Mothma",
-        "height": "150",
-        "mass": "unknown",
-        "hair_color": "auburn",
-        "skin_color": "fair",
-        "eye_color": "blue",
-        "birth_year": "48BBY",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/32/",
-        "films": [
-            "https://swapi.dev/api/films/3/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-18T11:12:38.895000Z",
-        "edited": "2014-12-20T21:17:50.364000Z",
-        "url": "https://swapi.dev/api/people/28/"
+        "homeworld": "Chandrila",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/e4/e4b65cb9f4e28c29f0f77644dbd87a85.jpg"
     },
     {
+        "id": 27,
         "name": "Arvel Crynyd",
-        "height": "unknown",
-        "mass": "unknown",
-        "hair_color": "brown",
-        "skin_color": "fair",
-        "eye_color": "brown",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/28/",
-        "films": [
-            "https://swapi.dev/api/films/3/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [
-            "https://swapi.dev/api/starships/28/"
-        ],
-        "created": "2014-12-18T11:16:33.020000Z",
-        "edited": "2014-12-20T21:17:50.367000Z",
-        "url": "https://swapi.dev/api/people/29/"
+        "homeworld": "unknown",
+        "pic": "data:image/jpeg;base64,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"
     },
     {
+        "id": 28,
         "name": "Wicket Systri Warrick",
-        "height": "88",
-        "mass": "20",
-        "hair_color": "brown",
-        "skin_color": "brown",
-        "eye_color": "brown",
-        "birth_year": "8BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/7/",
-        "films": [
-            "https://swapi.dev/api/films/3/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/9/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-18T11:21:58.954000Z",
-        "edited": "2014-12-20T21:17:50.369000Z",
-        "url": "https://swapi.dev/api/people/30/"
+        "homeworld": "Endor",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/49/498cfa62ad1a5d032c8fdd44e521a1f3.jpg"
     },
     {
+        "id": 29,
         "name": "Nien Nunb",
-        "height": "160",
-        "mass": "68",
-        "hair_color": "none",
-        "skin_color": "grey",
-        "eye_color": "black",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/33/",
-        "films": [
-            "https://swapi.dev/api/films/3/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/10/"
-        ],
-        "vehicles": [],
-        "starships": [
-            "https://swapi.dev/api/starships/10/"
-        ],
-        "created": "2014-12-18T11:26:18.541000Z",
-        "edited": "2014-12-20T21:17:50.371000Z",
-        "url": "https://swapi.dev/api/people/31/"
+        "homeworld": "Sullust",
+        "pic": "https://www.starwars-universe.com/images/encyclopedie/personnages/images_v6/nien_imv6.jpg"
     },
     {
+        "id": 30,
         "name": "Qui-Gon Jinn",
-        "height": "193",
-        "mass": "89",
-        "hair_color": "brown",
-        "skin_color": "fair",
-        "eye_color": "blue",
-        "birth_year": "92BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/28/",
-        "films": [
-            "https://swapi.dev/api/films/4/"
-        ],
-        "species": [],
-        "vehicles": [
-            "https://swapi.dev/api/vehicles/38/"
-        ],
-        "starships": [],
-        "created": "2014-12-19T16:54:53.618000Z",
-        "edited": "2014-12-20T21:17:50.375000Z",
-        "url": "https://swapi.dev/api/people/32/"
+        "homeworld": "unknown",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/90/904cc23ac13ed41e42e3f89e859abdbd.jpg"
     },
     {
+        "id": 31,
         "name": "Nute Gunray",
-        "height": "191",
-        "mass": "90",
-        "hair_color": "none",
-        "skin_color": "mottled green",
-        "eye_color": "red",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/18/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/11/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-19T17:05:57.357000Z",
-        "edited": "2014-12-20T21:17:50.377000Z",
-        "url": "https://swapi.dev/api/people/33/"
+        "homeworld": "Cato Neimoidia",
+        "pic": "https://img1.starwars-holonet.com/holonet/dictionnaire/photos/perso_gunray_nute_1.jpg"
     },
     {
+        "id": 32,
         "name": "Finis Valorum",
-        "height": "170",
-        "mass": "unknown",
-        "hair_color": "blond",
-        "skin_color": "fair",
-        "eye_color": "blue",
-        "birth_year": "91BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/9/",
-        "films": [
-            "https://swapi.dev/api/films/4/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-19T17:21:45.915000Z",
-        "edited": "2014-12-20T21:17:50.379000Z",
-        "url": "https://swapi.dev/api/people/34/"
+        "homeworld": "Coruscant",
+        "pic": "https://pbs.twimg.com/profile_images/1273714675071561734/LOWwnK9D_400x400.jpg"
     },
     {
+        "id": 33,
         "name": "Padmé Amidala",
-        "height": "185",
-        "mass": "45",
-        "hair_color": "brown",
-        "skin_color": "light",
-        "eye_color": "brown",
-        "birth_year": "46BBY",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/8/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [
-            "https://swapi.dev/api/starships/39/",
-            "https://swapi.dev/api/starships/49/",
-            "https://swapi.dev/api/starships/64/"
-        ],
-        "created": "2014-12-19T17:28:26.926000Z",
-        "edited": "2014-12-20T21:17:50.381000Z",
-        "url": "https://swapi.dev/api/people/35/"
+        "homeworld": "Naboo",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/86/86a65fe14e0638d5e6c27174c9bcf40f.jpg"
     },
     {
+        "id": 34,
         "name": "Jar Jar Binks",
-        "height": "196",
-        "mass": "66",
-        "hair_color": "none",
-        "skin_color": "orange",
-        "eye_color": "orange",
-        "birth_year": "52BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/8/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/12/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-19T17:29:32.489000Z",
-        "edited": "2014-12-20T21:17:50.383000Z",
-        "url": "https://swapi.dev/api/people/36/"
+        "homeworld": "Naboo",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/da/da8bbf2c5ab5a55ebe1e6a7110ef6eeb.jpg"
     },
     {
+        "id": 35,
         "name": "Roos Tarpals",
-        "height": "224",
-        "mass": "82",
-        "hair_color": "none",
-        "skin_color": "grey",
-        "eye_color": "orange",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/8/",
-        "films": [
-            "https://swapi.dev/api/films/4/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/12/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-19T17:32:56.741000Z",
-        "edited": "2014-12-20T21:17:50.385000Z",
-        "url": "https://swapi.dev/api/people/37/"
+        "homeworld": "Naboo",
+        "pic": "https://www.personality-database.com/profile_images/81993.png"
     },
     {
+        "id": 36,
         "name": "Rugor Nass",
-        "height": "206",
-        "mass": "unknown",
-        "hair_color": "none",
-        "skin_color": "green",
-        "eye_color": "orange",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/8/",
-        "films": [
-            "https://swapi.dev/api/films/4/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/12/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-19T17:33:38.909000Z",
-        "edited": "2014-12-20T21:17:50.388000Z",
-        "url": "https://swapi.dev/api/people/38/"
+        "homeworld": "Naboo",
+        "pic": "https://pbs.twimg.com/profile_images/441401330041516032/pzRYFv6H_400x400.jpeg"
     },
     {
+        "id": 37,
         "name": "Ric Olié",
-        "height": "183",
-        "mass": "unknown",
-        "hair_color": "brown",
-        "skin_color": "fair",
-        "eye_color": "blue",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/8/",
-        "films": [
-            "https://swapi.dev/api/films/4/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [
-            "https://swapi.dev/api/starships/40/"
-        ],
-        "created": "2014-12-19T17:45:01.522000Z",
-        "edited": "2014-12-20T21:17:50.392000Z",
-        "url": "https://swapi.dev/api/people/39/"
+        "homeworld": "Naboo",
+        "pic": "https://img.planete-starwars.com/upload/databank/1/3422_ric.jpg"
     },
     {
+        "id": 38,
         "name": "Watto",
-        "height": "137",
-        "mass": "unknown",
-        "hair_color": "black",
-        "skin_color": "blue, grey",
-        "eye_color": "yellow",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/34/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/13/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-19T17:48:54.647000Z",
-        "edited": "2014-12-20T21:17:50.395000Z",
-        "url": "https://swapi.dev/api/people/40/"
+        "homeworld": "Toydaria",
+        "pic": "https://img1.starwars-holonet.com/holonet/dictionnaire/photos/perso_watto_1.jpg"
     },
     {
+        "id": 39,
         "name": "Sebulba",
-        "height": "112",
-        "mass": "40",
-        "hair_color": "none",
-        "skin_color": "grey, red",
-        "eye_color": "orange",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/35/",
-        "films": [
-            "https://swapi.dev/api/films/4/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/14/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-19T17:53:02.586000Z",
-        "edited": "2014-12-20T21:17:50.397000Z",
-        "url": "https://swapi.dev/api/people/41/"
+        "homeworld": "Malastare",
+        "pic": "https://media.anakinworld.com/uploads/entries/original/personnage-sebulba.jpg"
     },
     {
+        "id": 40,
         "name": "Quarsh Panaka",
-        "height": "183",
-        "mass": "unknown",
-        "hair_color": "black",
-        "skin_color": "dark",
-        "eye_color": "brown",
-        "birth_year": "62BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/8/",
-        "films": [
-            "https://swapi.dev/api/films/4/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-19T17:55:43.348000Z",
-        "edited": "2014-12-20T21:17:50.399000Z",
-        "url": "https://swapi.dev/api/people/42/"
+        "homeworld": "Naboo",
+        "pic": "http://pm1.narvii.com/6401/44f6f4593bcbe8c6d95a156e6c2aabbb2955ef45_00.jpg"
     },
     {
+        "id": 41,
         "name": "Shmi Skywalker",
-        "height": "163",
-        "mass": "unknown",
-        "hair_color": "black",
-        "skin_color": "fair",
-        "eye_color": "brown",
-        "birth_year": "72BBY",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/1/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-19T17:57:41.191000Z",
-        "edited": "2014-12-20T21:17:50.401000Z",
-        "url": "https://swapi.dev/api/people/43/"
+        "homeworld": "Tatooine",
+        "pic": "https://img1.starwars-holonet.com/holonet/dictionnaire/photos/perso_skywalker_shmi.jpg"
     },
     {
+        "id": 42,
         "name": "Darth Maul",
-        "height": "175",
-        "mass": "80",
-        "hair_color": "none",
-        "skin_color": "red",
-        "eye_color": "yellow",
-        "birth_year": "54BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/36/",
-        "films": [
-            "https://swapi.dev/api/films/4/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/22/"
-        ],
-        "vehicles": [
-            "https://swapi.dev/api/vehicles/42/"
-        ],
-        "starships": [
-            "https://swapi.dev/api/starships/41/"
-        ],
-        "created": "2014-12-19T18:00:41.929000Z",
-        "edited": "2014-12-20T21:17:50.403000Z",
-        "url": "https://swapi.dev/api/people/44/"
+        "homeworld": "Dathomir",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/87/87bffb404521daef830fbbe3f10c87d6.jpg"
     },
     {
+        "id": 43,
         "name": "Bib Fortuna",
-        "height": "180",
-        "mass": "unknown",
-        "hair_color": "none",
-        "skin_color": "pale",
-        "eye_color": "pink",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/37/",
-        "films": [
-            "https://swapi.dev/api/films/3/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/15/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T09:47:02.512000Z",
-        "edited": "2014-12-20T21:17:50.407000Z",
-        "url": "https://swapi.dev/api/people/45/"
+        "homeworld": "Ryloth",
+        "pic": "https://upload.wikimedia.org/wikipedia/en/6/65/Bib_Fortuna_%28screenshot%29.jpg"
     },
     {
+        "id": 44,
         "name": "Ayla Secura",
-        "height": "178",
-        "mass": "55",
-        "hair_color": "none",
-        "skin_color": "blue",
-        "eye_color": "hazel",
-        "birth_year": "48BBY",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/37/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/15/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T09:48:01.172000Z",
-        "edited": "2014-12-20T21:17:50.409000Z",
-        "url": "https://swapi.dev/api/people/46/"
+        "homeworld": "Ryloth",
+        "pic": "https://m.media-amazon.com/images/I/51r+dl6EiiL._AC_SX466_.jpg"
     },
     {
+        "id": 45,
         "name": "Ratts Tyerel",
-        "height": "79",
-        "mass": "15",
-        "hair_color": "none",
-        "skin_color": "grey, blue",
-        "eye_color": "unknown",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/38/",
-        "films": [
-            "https://swapi.dev/api/films/4/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/16/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T09:53:15.086000Z",
-        "edited": "2014-12-20T21:17:50.410000Z",
-        "url": "https://swapi.dev/api/people/47/"
+        "homeworld": "Aleen Minor",
+        "pic": "https://www.starwars-universe.com/images/encyclopedie/personnages/avatars_v6/ratts_tyerell_avatar.jpg"
     },
     {
+        "id": 46,
         "name": "Dud Bolt",
-        "height": "94",
-        "mass": "45",
-        "hair_color": "none",
-        "skin_color": "blue, grey",
-        "eye_color": "yellow",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/39/",
-        "films": [
-            "https://swapi.dev/api/films/4/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/17/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T09:57:31.858000Z",
-        "edited": "2014-12-20T21:17:50.414000Z",
-        "url": "https://swapi.dev/api/people/48/"
+        "homeworld": "Vulpter",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKUZKxLFQ4J2jAOBL4KZupJaA75CKrzdjuBg&usqp=CAU"
     },
     {
+        "id": 47,
         "name": "Gasgano",
-        "height": "122",
-        "mass": "unknown",
-        "hair_color": "none",
-        "skin_color": "white, blue",
-        "eye_color": "black",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/40/",
-        "films": [
-            "https://swapi.dev/api/films/4/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/18/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T10:02:12.223000Z",
-        "edited": "2014-12-20T21:17:50.416000Z",
-        "url": "https://swapi.dev/api/people/49/"
+        "homeworld": "Troiken",
+        "pic": "data:image/jpeg;base64,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"
     },
     {
+        "id": 48,
         "name": "Ben Quadinaros",
-        "height": "163",
-        "mass": "65",
-        "hair_color": "none",
-        "skin_color": "grey, green, yellow",
-        "eye_color": "orange",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/41/",
-        "films": [
-            "https://swapi.dev/api/films/4/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/19/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T10:08:33.777000Z",
-        "edited": "2014-12-20T21:17:50.417000Z",
-        "url": "https://swapi.dev/api/people/50/"
+        "homeworld": "Tund",
+        "pic": "https://lumiere-a.akamaihd.net/v1/images/databank_benquadinaros_01_169_0c77b6a0.jpeg?region=0%2C49%2C1560%2C780"
     },
     {
+        "id": 49,
         "name": "Mace Windu",
-        "height": "188",
-        "mass": "84",
-        "hair_color": "none",
-        "skin_color": "dark",
-        "eye_color": "brown",
-        "birth_year": "72BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/42/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T10:12:30.846000Z",
-        "edited": "2014-12-20T21:17:50.420000Z",
-        "url": "https://swapi.dev/api/people/51/"
+        "homeworld": "Haruun Kal",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/2b/2bce909e4fb9c903e476ab4f9f20a469.jpg"
     },
     {
+        "id": 50,
         "name": "Ki-Adi-Mundi",
-        "height": "198",
-        "mass": "82",
-        "hair_color": "white",
-        "skin_color": "pale",
-        "eye_color": "yellow",
-        "birth_year": "92BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/43/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/20/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T10:15:32.293000Z",
-        "edited": "2014-12-20T21:17:50.422000Z",
-        "url": "https://swapi.dev/api/people/52/"
+        "homeworld": "Cerea",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/71/712795353468771157665327a3704edd.jpg"
     },
     {
+        "id": 51,
         "name": "Kit Fisto",
-        "height": "196",
-        "mass": "87",
-        "hair_color": "none",
-        "skin_color": "green",
-        "eye_color": "black",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/44/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/21/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T10:18:57.202000Z",
-        "edited": "2014-12-20T21:17:50.424000Z",
-        "url": "https://swapi.dev/api/people/53/"
+        "homeworld": "Glee Anselm",
+        "pic": "https://img1.starwars-holonet.com/holonet/dictionnaire/photos/perso_fisto_kit.jpg"
     },
     {
+        "id": 52,
         "name": "Eeth Koth",
-        "height": "171",
-        "mass": "unknown",
-        "hair_color": "black",
-        "skin_color": "brown",
-        "eye_color": "brown",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/45/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/22/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T10:26:47.902000Z",
-        "edited": "2014-12-20T21:17:50.427000Z",
-        "url": "https://swapi.dev/api/people/54/"
+        "homeworld": "Iridonia",
+        "pic": "https://pbs.twimg.com/media/BYK8yPvCMAAjuy6.jpg"
     },
     {
+        "id": 53,
         "name": "Adi Gallia",
-        "height": "184",
-        "mass": "50",
-        "hair_color": "none",
-        "skin_color": "dark",
-        "eye_color": "blue",
-        "birth_year": "unknown",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/9/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/23/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T10:29:11.661000Z",
-        "edited": "2014-12-20T21:17:50.432000Z",
-        "url": "https://swapi.dev/api/people/55/"
+        "homeworld": "Coruscant",
+        "pic": "https://img.planete-starwars.com/upload/databank/1/adi.jpg"
     },
     {
+        "id": 54,
         "name": "Saesee Tiin",
-        "height": "188",
-        "mass": "unknown",
-        "hair_color": "none",
-        "skin_color": "pale",
-        "eye_color": "orange",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/47/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/24/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T10:32:11.669000Z",
-        "edited": "2014-12-20T21:17:50.434000Z",
-        "url": "https://swapi.dev/api/people/56/"
+        "homeworld": "Iktotch",
+        "pic": "https://i.pinimg.com/originals/e6/37/d3/e637d3e2bb0400ceac248cc8a5bdfc39.jpg"
     },
     {
+        "id": 55,
         "name": "Yarael Poof",
-        "height": "264",
-        "mass": "unknown",
-        "hair_color": "none",
-        "skin_color": "white",
-        "eye_color": "yellow",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/48/",
-        "films": [
-            "https://swapi.dev/api/films/4/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/25/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T10:34:48.725000Z",
-        "edited": "2014-12-20T21:17:50.437000Z",
-        "url": "https://swapi.dev/api/people/57/"
+        "homeworld": "Quermia",
+        "pic": "https://img.planete-starwars.com/upload/databank/1/yarael_poof.jpg"
     },
     {
+        "id": 56,
         "name": "Plo Koon",
-        "height": "188",
-        "mass": "80",
-        "hair_color": "none",
-        "skin_color": "orange",
-        "eye_color": "black",
-        "birth_year": "22BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/49/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/26/"
-        ],
-        "vehicles": [],
-        "starships": [
-            "https://swapi.dev/api/starships/48/"
-        ],
-        "created": "2014-12-20T10:49:19.859000Z",
-        "edited": "2014-12-20T21:17:50.439000Z",
-        "url": "https://swapi.dev/api/people/58/"
+        "homeworld": "Dorin",
+        "pic": "https://img1.starwars-holonet.com/holonet/dictionnaire/photos/perso_koon_plo.jpg"
     },
     {
+        "id": 57,
         "name": "Mas Amedda",
-        "height": "196",
-        "mass": "unknown",
-        "hair_color": "none",
-        "skin_color": "blue",
-        "eye_color": "blue",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/50/",
-        "films": [
-            "https://swapi.dev/api/films/4/",
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/27/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T10:53:26.457000Z",
-        "edited": "2014-12-20T21:17:50.442000Z",
-        "url": "https://swapi.dev/api/people/59/"
+        "homeworld": "Champala",
+        "pic": "https://pm1.narvii.com/6481/cb78302912f33c6212cd055c0e581f41404f79d3_hq.jpg"
     },
     {
+        "id": 58,
         "name": "Gregar Typho",
-        "height": "185",
-        "mass": "85",
-        "hair_color": "black",
-        "skin_color": "dark",
-        "eye_color": "brown",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/8/",
-        "films": [
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [
-            "https://swapi.dev/api/starships/39/"
-        ],
-        "created": "2014-12-20T11:10:10.381000Z",
-        "edited": "2014-12-20T21:17:50.445000Z",
-        "url": "https://swapi.dev/api/people/60/"
+        "homeworld": "Naboo",
+        "pic": "https://lumiere-a.akamaihd.net/v1/images/databank_captainpanaka_01_169_6a3ccac5.jpeg?region=341%2C0%2C878%2C878"
     },
     {
+        "id": 59,
         "name": "Cordé",
-        "height": "157",
-        "mass": "unknown",
-        "hair_color": "brown",
-        "skin_color": "light",
-        "eye_color": "brown",
-        "birth_year": "unknown",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/8/",
-        "films": [
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T11:11:39.630000Z",
-        "edited": "2014-12-20T21:17:50.449000Z",
-        "url": "https://swapi.dev/api/people/61/"
+        "homeworld": "Naboo",
+        "pic": "http://ayay.co.uk/backgrounds/star_wars/rebel_alliance_characters/corde-a-naboo-handmaiden.jpg"
     },
     {
+        "id": 60,
         "name": "Cliegg Lars",
-        "height": "183",
-        "mass": "unknown",
-        "hair_color": "brown",
-        "skin_color": "fair",
-        "eye_color": "blue",
-        "birth_year": "82BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/1/",
-        "films": [
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T15:59:03.958000Z",
-        "edited": "2014-12-20T21:17:50.451000Z",
-        "url": "https://swapi.dev/api/people/62/"
+        "homeworld": "Tatooine",
+        "pic": "https://i.pinimg.com/originals/74/f4/77/74f477bf21c59c1541aad209f27a8e18.jpg"
     },
     {
+        "id": 61,
         "name": "Poggle the Lesser",
-        "height": "183",
-        "mass": "80",
-        "hair_color": "none",
-        "skin_color": "green",
-        "eye_color": "yellow",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/11/",
-        "films": [
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/28/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T16:40:43.977000Z",
-        "edited": "2014-12-20T21:17:50.453000Z",
-        "url": "https://swapi.dev/api/people/63/"
+        "homeworld": "Geonosis",
+        "pic": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFRgVFRUYGBgYGBIYGBgYGBgYGRgaGBgZGRgYGBgcIS4lHB4rHxgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHhISHjQrJSQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAMkA+wMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAADBAIFBgEAB//EAEAQAAICAAQEAgkABwUJAQAAAAECABEDBBIhBTFBUWFxBhMiMoGRobHBQlJicoLR8BQVI7LhByQzNHOSosLxY//EABoBAAIDAQEAAAAAAAAAAAAAAAIDAAEEBQb/xAAkEQACAgICAgIDAQEAAAAAAAAAAQIRAyESMQRBMlETImFx4f/aAAwDAQACEQMRAD8AxbZsMleEpcZO0KAdO0WXG7zHCHFujTKV9gXSR0RtlBkDhGNUhdHMsN5ruFPtM9k8HeafIYIqY/KkmjT46fIaxMSBXEksfDkEw9pijVHRTdgjibzrvIBPak8SN0Vy7Iqlw2JhjTOYSE+ELmSFWC3stdAuH4O5MpvSk9JZZfNUefOVHH0Z22377x+GEllTYjNJfipGbaQjxyDHqvzP8oFsmw5UfIzqI5dMXucuddCOYI85wAnlLKO3OgzhBHPaRkIFnUggYRDKaCQxOhtpwSSpcWx2O+QTANmOI9RXBWodHF7wJHRwuh3Ce5HMTyeE7iDaB7OircCvadRIRl3nCahWZlHds4zT1yIM7LQEm2zuVexUXzODRuDwH0m5a6A6yS/V2cWP7IqVYiNYOJ3gcTCKmjJIskqaIrRcZR12mkyAWph1xKl1w7MN0JmLPibV2acM6Zoszhr3nMDDWucqsfHauchg5lu8zrG67NayK+h3EChpDEzCiVOPiEtzg3eo+OL7Yt5fpFoeIVyimdxi+xPOKF51jYhxgk7KeRtUexgQtAk7fnl9IiMwaN35S1ZC6BlF0KNdx1qINTCidx5X5TalQmVNC6ObHmZPDwy1kEbbfHznly+8cwGRCN79pTVfeG2K4lfQJ0kAjqDO+rVbCjTv33/+R7iOUAYkUD4Hn4n6RHBwwfe+8lkcaYrxElioAJpeYHMnfeIthkcwR5giXzYa89/Dtc6uBqBU72CfKWpC3C2Z4QqCChUlsFBxGMAxaGwItj8PyGhBOu8Ks40A6CCYOLGWexEkjSbwGb8LtUcRYLF5xoLtF3XeUmMywqKQATlw/q5z1Yh2ZvxMq1MtOF49HSZWVUmj0bjpx5Kjz0XTsv8AO5UEWBEhhR3JZgOu8BmEozGm0+LHtJ7FDh7y54YoAlOxljkEJlZNxLhqRZ4wBg8LDhPUVzucAmZP6NSW9gGwbaRzWBQnWemg83jWIxXaI6pi6pcYzKhUgcFusR4pm79kRsYuUqFOSjFsJwTiBRz1BI28zVyy4rlArLjJWl6DDkA1b7TLYGJTCa9cT1mE6bAhFI8KA/lNbVCIu1sqsZaIHMEWCvL/AOxrCygOHz3N89uR3/HygEdWQVp57AdLHXzhsDVrCsK8JQSonxLBJZiP2TuNiQBYiGHhhm67bnt4Sw4q5DHluBfwHL6xbCQ6d6BJsg9qoX8/rIUwTYLM4XqeS1tR7108u8Y4pj4eXwzhqbxGFE9RfM+A7SXC3/4mKT7t0e239fOZXM4xd2dtyxJPxMOKsCcuK0CEKkEIRTCYqIa4bAgLh8uYD6NGH5DQkC8IDBusWbno5rh8B4rCYRlSQ/DNqRaEbRYiM5dgRI4iRSdHXnHnFSQAme0yfq56oVieD9lK7TgM4izzCpqPIsbymYKmWz+0Jn1Ms8jmNqMTlh7QzHL0xzL5fUam04LwhdINTGYOLpYGbvg/EAEE5flymo6Oh4yi2TzvDgBKxMiI/wATz+0SyuKWmbHzUbZqai5UeXhykyn43llXlLXMZrRM5xTNFjNWCMnKxWaUYxaoQxsbSJU4j2bhsy9xRzOrCNI5U5WcB3Ev8lrKuEHvbXzoeUossLYTQ5DM6D6plFCmUkAg2CNx58ociQVkU4dippsGtqNbX4y0TMqfZcVtv1+IPSEwOIIy7Ne+l10lfMC9iR28ItnMHSodGVlr+RqhvV7fGA9jmq6OBQLJo7+zdcuhrvFcdHa2H6p1X1N0fxH3w19WGCAagKsnY7Vv23jGUyDOqs1DDF6nsAGumxutvMykD2Z/L6hhulEWGI7War7VM6Zvc1joq9FUbmm0tXfTzN+MxOccM7MBQLMQO28bFgZY0kAhFg4RJbFILUNhQUNhCA+h+L5DCNPYkjVTrmAbvQEyaGDM6JC4ypjuXxKlgpuVCtHMviVEzidbxM9fq+hvTBmMKQZ71UBM6Lx30ZxRIYiyameIm48HQuphcN6NyDrIgyPZXRcYeJYuaLg+ZFUTMblsWjLjKYpBsTFnxWqNOHJTs0ed35Rvg42NypwszqFR3Ax9CzBKDrib4SXLkJcexfaoSgzmJtGuJ45LEmU2NiWZ0PHx1FGPyMlydAmaCaScwZM2GMsOGZbUb7mh5A7mMcQLevNc19Xp1UPdo7+FjnC8KNaK7X8buG43lyzqxslgQKvcruvPmKvxg3salSLU+p0amrDYGyCgJ1eDsPh5dYgcHU4xfcwfb/So4gIqlryG/jEMDGIIRULOSAoxAxC11AJrau3SXgy4xCPWOXI94KAq7b6F6+MqqGt8lSR4Z0Na2mkLuEfU6foi+9bcrqr7wWHgkMUxTbkalc2QwLEq4I+VdNMaxEUohXDQPrxAGQlSgG6Fbuz3B51A53GpPaAYKbYCwU506V+iT/2nwlItKuyv4xhKhVdQcqEumZhpDM3M7iySa3rvuJRcVwguIaIIb2hRsU29feMY3tcm2ZgoG1nfYkgAAQ3pKhDISBulbV08evOMjoTNqSbKSTWQk1lsUg0Pl4NMMmEQVFtmjEmpJjOJBNJEwZaDRsbPSFyRkGMsFuggaNYJiKmM4L1BkjRhyUx5MQiMf2iJ67EjcS4nVh5DS0ypDyavAK0IDNh5EKwuLnaH1yD1IQgDLfh+JYrrKYGMZbG0tcCceSLi6ZfLiaTGRmbErHfUIMY+kVMv47NKyUc4ji71KxzH3y1jUzc6IAo7Hx+UG2VUdzuPvv8AcfWaoJRiIlcpCBM6iFuXTn4RzMZVQVKkhWvnvy/0I+cJpVVIHKt4ad9A8aexzgS3vfuiuXTvL30gVWwl1WoU2CALB7+EpPRrEGpxYr2Wqu23PpNG6llZW3HtDfa+58t/pFv5D4/CzO5ZxsE1ampdTn2gpPtV2G32mjwcoqKQAewIBoHqdvj8ZQ8Dyo1ltyqsQO1Cz+PpNVlFXTZIB8AKUebSSdEjtA1wjpq7DAjfbn8NpV46MFa1IZQwYH9JSNx25feX+ZdAoF77bmj5+10PhK7FOvfmev7QrmD1gqRdJIzfD8D1uMtvqVTdE7+R5dpH0xX21I5URXjtctOE5YJiO5v3trrYVYlZ6R5dmcDUOWrfrq8fhGXTBauLM3JIN4bFyrgXWw50brzg8IbiGxKWzS8K4fqS6iOfy+h5u/RrIXhA10ma9KcHS85eLyOWdwOzPFFYVXaKEmQ0SemcM3mYiVgjDmBeRAyPLDpF1MZQyMKAVWhIMTuqLaNkJUioCzxkmkCJoOCc1GSBnNMkBCIcnRPGcuCQawcxQqOYQuj3+0qrmh4NhIyKzcwSteQ/lcpxS2HF26GuALhshGKKKOyk9w9Mo/8AF/nHsxk8sx9ht7Ox5HY7eF8r8bgG4eEc6GBDqaA39pPbCnx2I+MGMP2tXQ+0PC/9blLdoJprYnj5fVhsg95SGU8r2/8AZT8wso3xLWaLNrppx+jzXoQx+2o1/FKXi2AqsHT3XFjwP6SmVB06ZUurLD0Wwxrc7Uqi75bG/wACXWFnDiI7tZ19q2HTyFAbeEqODnTlcw/UALfi1AVLlMELlvZItU3G/a/x9ZUntjIuopC+HjDCyxJHtGiBW/tHYfXlO5PFxGfQwewEPq0Ft7R5GyKNVtz3nuOFl9UBsVXVY6Fm0pW3PnUvchlkQWRaKMNGrUr4jn239qr0gFbrmfKR0HCLb/wXfL5jmcoxvYHWdfb3Sn0+spf7wxMNiu5VCA6tsyFiOdXYG2/jNRmESyWy+EBdAqpuvHf89JTekGXUesI3cKip01IyEaSf0iNJ+Cr5ylVhyhqwOZJU3uBaFu3Pf6dYnxkasccvZCmj2UFj9I/mH1YTgnlgod+ZYIWH2iuZS8cn/wDLC/8AIkk/IV8ZbFXSZWLgnVv+19AYv/YQSzKCNLkFeYq+nlLZsEgkkGq+ZJA/Jk8hWosepJ5dzck5NA41b2fQfRXL/wCCPKY703wqefQvRZB6keUw/wDtBFP8Z5vxJt+ZJHS52mjGMsC0J629pFxPRoTKvQFjBsYVhAtLQqTPCGUwAMLqkZIsYVpKouphLlUaFMV2kGElIkxpyiJEhcLIMJCjmqekTOiEQng4Rdgo5maHhuCuGdJbUCQaOwBOxIPepTZHECnUfARr1oPIVX8ucBlp0XGdY4LKy3aMuIobrRBIB7HlUsGSnZVQsgNodSgaWAZeZB90rKj1xxcMKwsi0u+Q5j4yz4dm6wcF73AxMFv3sJrU+ZTEQfwwemmNu0SxsqzCwlCm1AsNwRTAbnciZ4JerAc7m2Rjt7XNT5Efc9ZvBm0dLU2aqvM9ZkeN5WnDCxZHLmN72+O9+PhCkqB7ErZMlpOxbMgEdfZTcH418pqlwf8AdiRR2TmO4rY/GZbiuMWy6H9pifNbW/tNBlM9/u1XQKLtfMiq/MB7V/0O6dfxFZ6Q5xjmAo5BcNT4aao/AmbHg6F9AYk63J3A9kqhsgj9lJ8+44944N8yd/P/AEqbrgmf1er/AGVPjuVKX4bEyprSG4Zfs0XGfx2RXRksAqATyOobmx4Xy7TBcWz+K7th0dKA70BTBQtbdlKibjjecIfCB93SHJ70rij40Z85ws0cQMx3bExgfKyDXyUCVELNL1ZcZ5KyzMTW+Gg70EXby9o/KLLmyvqiVJvAwiTy6sNyf3YfjWJaIgJK6mZj3rYD6CVmaxf8HD354aD4AmvzDj2JbVMtuLcRwzhkpq1ihRUiibAo8ibN/CUxzWgEnnXQxXNnSiJzq3aj1Oyj7n4xMtak+NSVy2BbWj6NwH0wREClgNpnvSfjIx22N7zLhIRBUyQ8HFDI8kex0c0nphAsJchhmEuamOQu5g2k8aCuWhUns9JBTIrGUIkbJFWCU1C65zFWBsyuxnQK52pwmR1RhzyRMjONOKIRDrTgkyJwSEOAy0y9EeB5ytKwmFikAjzlMhY8OzFFx4gjw5i/9I1ks1WG6npjYWIK8VdW289HymeXEINjYxvLYhZiGbSKGpqvSFN8uvl3IlOJal6NCMXR6p9TDW2IDpr9AhdIse9vfxWN8Vs2CN1Z1J8UJF18IDJYyYS6lbEYvbKcRVQKyrs+GLa2GrYeHlFszjImGoR3JYFlV8PSWA3JVtR+Fjf4wbt0w6pJizoCqJ/1ABtuCbJ8+f2nUxaw9INgAixyIB2gw2o6gfdU2OlEHUR5Eg/PtFnchO3PYcucqvRcn7I8WxAzKR/XaaHgmbKgAXsKu9rsX/XnMljPYU+X0jeSzemh8YUlaKxyqVm/4rnTSht/Yr5g0PL2ufhMLw0aSBfJx8wamgGc9YoY8htXfxlBgLWI47Of838oEdIbmabTRZ8cxhYAG1eXvMQN/nE82AfViqULys/rttfwqS4xiasRVPQAn61K45k7n9UHyskn7kQktaFtq2CzuOWZie/sjsBsPoBB4J2PmIFmJ5w+XNgjtR/B+8NqkLUrkNINp3TPJynSd4sdF7IDYyTQmmcq5RqoCTcC6wzpUGWloVJAQYdTAmeBhNARdDStPaJBXkvWQB6a9leDJXIT0dRzbJXO6pCekolkrnhOTokLD5fBdjSi++4A+Z2kzlHsgIx5chdX3IkcJFI3cr4BSfmb2jDYeEwN4pUgChoJ1dzYO0FvYfHX/SvIIO43BhxilSpAFjr3N2L70a+UBQvntC4qUPI/Qwha6Ze4OO2NhG/WYzqUsuxZVDBiQi33C2SeQ5CovxXPPQw2dzoAVlc2AQPZZCd6/FcxKO5Lc9zQ89pXHdlubaoYwcyR57VXxH5ryuebE9gDvf3gsPAY8htzs7CpY5DJhlZm3CjlyJkdFxtgX4cdAYMCTuFA6eB6wOTxijdAe5F1/KWOIXAvR5EbkAeAkhjYTruAWHcFX8rHPrKvWy6p6HcLMqVGoAkXuNufgPxFFQasQ3ercfxCOcZyIw8BMRQaYgHYkICAVOrx328otw8AAtsQdNd9hvfaA0krQ230xLiOLWI5PMhK/wC0bRAkgUep/r7j5RjiG7fwrv5CvxFcQ7xi6Fy7BxrLgA7nwNb2OsVj+BmEUFRhhiap2ux/DuKlvoCNJjDqoNKSw2okaT8RBMI1i4hZVYqoq1OldPLlqrw/MVYxJo9hW5QCYtGMI17RfHwe0i/o5t1aDlgYB0i+oidGJCUQHNM4yzlwmq5EpLsBr6PK8JYi9TsjRFJgJ6E0T3q4wy0QkgJMYckMOUWgRE9C6J1VFi+VyFjGRwAdyITGyzNY0kHx7d4wMxhHbUfiCB8BJ5dRrVlbkyk72DRuiP65xbb7GKKG8r6K4i2XKghdTC/dGgOQRVlgpWwOuIg5nZhPRosmttKgkqAWNlgwStumsst/sOeS7ifimKw1M5Oohzfcs+Ofm4Q/wjtB4mcchQWPsqFBv9XDNeZvEc/xGKbk32MUYpdFngej+ACq619or7WkUq02I7HVuKwl1V3dB3mXzWYDOxUlUttK9dNmtVdalriA+3vyTMkeY0qPpKvL5ViBVbc+UPH9tgy10SOH+j1oE335gfLeeXFC9el+Bu9jDOig2XXf2huOdAV9J3E4JisAQrAFQQNLcu8O/sDb6CYWeRyi7KSQDqNDfx5VLv0nyCtgo2FRZBaFDqJQVqs9gbrylDiei2KFDahv0ZXX6laMs/RvPMitl3XndHnt2seMmvRFa00RywOPkyC1lQwA7sN1+31Er+D0FNtyG4o2PL5VLDAvL4xof4bG9PZl3GnzlZmWT12LpsISDpIojVuQB03NSmw1poryQSCewJ+ZFRbFhmWqv6cpAoYaBkvQvHsioIN1tvv1iREkrHkDLatClpl2HRlIF31rl4HzEUdSDR/++Mhk27H4HlLjHy4KEmiQNu42v5fzino0xXJf4VKNDMYoMSjGEbVyka9hxlapAnEWYR1sFu0h/ZjLUl9gyhJ+hO4QNGBlT2khlTLcolLHNehS5646cqRI+qlckE4TXaD5zhpTkbiy5YmXWYfWN4gzUaiIZJNb7LyYYp6FGyxjWU4aXhWW5f8ABCijeDlzSjG0FjwKUqM9meGFJW4yb12m74mU0luwJ+UxBa3vufuZfj5ZTVsLPgjjqhd123P+kLw7EUYiFiQutNR7LdMflcjmx7Vj+ukjg4BY0B2+vc9Jr1WzHT5aNaMggXSx3Wgw1DkmtMRvLQ+E4/ZDdoRcinqwxIsaWb2tq0/2fHr91tD/ALrA8pm8RnwiASNShRYpumw8djXltO4WfKirNeQqyuk+drse9DrE8W9pjnL7Rr8pg4auPW+yrahie77CYi+pxvPRiBHv9VrmH4plXwcR8F7tGKnnRo7MPAjcHsYz/eO1WxrfyoBftQ8Rzgc3nlf3lJIoBixsAbAddoUE0+hWSSkuyuE+6+guAMxhYb7EBACD8q+8+GkjoPzPoP8Asr9Kf7PjLg4h/wAN2pT+qx6HwP384c1aAg6Z9lw8srMqhBoUbmuR7TEen3omio2YwaDIrNdbg6tQ3+c3XGc4cNLUWD16Ac7lXxXPhsLSaKMhLk9txQHiZn5JdDkmz5K2ZT1IxsQC7srzBobeyN+e3bcTGpik6yatgSa7k3LTiWfX1ZRA+7Mo1EVoDEqaH6VUJTYPI+I/MfFaFye0izyuAuJgsdgyEE891ah9/sfCezOEtCuQHzNb/wAogMTTdE7iiP6/reGcnQCPdsi+x7EdJTTvQ3kpRqtpbIplgy2DuCRUUVd66wyY5UEDrJZVevUmh58yfh+YW1diWrZYcMyqalDkcxdsVFfDea7jfB0TCRktdS9Sx1XXRlFd+fw6zK5YMAdIs86P3Jks1xLFRdBxSQ3NVCgfA1fxu4hxlJ2mOjJRRVY+UZW0kb9xyMOmEyAMy+zdWO/j2ksjiFnWr25kdid7+gmj4jwYthNiBlUKu6G9RA31AVQrnGv6YMNPlEqcvmUMscHCRplWRlPaNZfPMvWJngb+LN2DzYp1NGmbKKBcQxVBO0SxOLsRUBh52ue8VHDNbZoy+VhlSRa+osSH93nvExxQ9pP+9z2l/jyLon5/GfbEP7a0CcY84Ezk2qCOLzk+2Nf2tpJeIOORiU8ZXCP0T8sl0x9+IMwIJ2g8IWaPYxQRzC5/w/gyuKj0M5yl2weq/wAxrVpWhysfeIrz/rvGcXrIyIHmHtt+n45SGNjMQAeQ5DtInr8ITG9weX5hIFvTFkJG4j+LmsNsLT6oDEvdwSBpsn3eQO4HwldPS2JR4Qq2OV8wQR38IKGWRlo+7ehHHRnMkExCC6UjX3HI/HnIcbxawyoN+6nb9O6mU/2U8sX99JoePf8Aun+YzLJLkzVHpHxjOinYdmYfUwStUY4p/wAbE/fxP8xik1LozS+TCNuefOWWSwdQO3s0Ax/VPf5185VCO5f3H80+5lS6GYn+wDGWiR/W0Ll8QUB4sPnp/AIkM1z+J+8Fg+8POT0DPUi5QMylxsBQJ5Uev9eMr8yrMQdJrl4fDtHcH/lm/wCov/rGD7g8oK0W9oLwjIlRsOfNuQA6m5LMcXZ29QhLYSk6jfvDlQ/Z8Oss8f8A5V/Jv8sz3o3/AMT5fcSLdlvVUC43hMjKpXSCtjxBP4qVmszU+nnv4X7r/cTKQ49C5/JktZntZkJ6WDZPWZ71hkBPSEP/2Q=="
     },
     {
+        "id": 62,
         "name": "Luminara Unduli",
-        "height": "170",
-        "mass": "56.2",
-        "hair_color": "black",
-        "skin_color": "yellow",
-        "eye_color": "blue",
-        "birth_year": "58BBY",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/51/",
-        "films": [
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/29/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T16:45:53.668000Z",
-        "edited": "2014-12-20T21:17:50.455000Z",
-        "url": "https://swapi.dev/api/people/64/"
+        "homeworld": "Mirial",
+        "pic": "https://cdn-media.planete-starwars.com/news/77921-luminara-unduli-1-retina-1824949d-169-lg.jpeg"
     },
     {
+        "id": 63,
         "name": "Barriss Offee",
-        "height": "166",
-        "mass": "50",
-        "hair_color": "black",
-        "skin_color": "yellow",
-        "eye_color": "blue",
-        "birth_year": "40BBY",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/51/",
-        "films": [
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/29/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T16:46:40.440000Z",
-        "edited": "2014-12-20T21:17:50.457000Z",
-        "url": "https://swapi.dev/api/people/65/"
+        "homeworld": "Mirial",
+        "pic": "data:image/jpeg;base64,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"
     },
     {
+        "id": 64,
         "name": "Dormé",
-        "height": "165",
-        "mass": "unknown",
-        "hair_color": "brown",
-        "skin_color": "light",
-        "eye_color": "brown",
-        "birth_year": "unknown",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/8/",
-        "films": [
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/1/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T16:49:14.640000Z",
-        "edited": "2014-12-20T21:17:50.460000Z",
-        "url": "https://swapi.dev/api/people/66/"
+        "homeworld": "Naboo",
+        "pic": "data:image/jpeg;base64,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"
     },
     {
+        "id": 65,
         "name": "Dooku",
-        "height": "193",
-        "mass": "80",
-        "hair_color": "white",
-        "skin_color": "fair",
-        "eye_color": "brown",
-        "birth_year": "102BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/52/",
-        "films": [
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/1/"
-        ],
-        "vehicles": [
-            "https://swapi.dev/api/vehicles/55/"
-        ],
-        "starships": [],
-        "created": "2014-12-20T16:52:14.726000Z",
-        "edited": "2014-12-20T21:17:50.462000Z",
-        "url": "https://swapi.dev/api/people/67/"
+        "homeworld": "Serenno",
+        "pic": "https://wir.skyrock.net/wir/v1/resize/?c=isi&im=%2F4175%2F93894175%2Fpics%2F3254008418_1_3_3sOTv8jj.png&w=300"
     },
     {
+        "id": 66,
         "name": "Bail Prestor Organa",
-        "height": "191",
-        "mass": "unknown",
-        "hair_color": "black",
-        "skin_color": "tan",
-        "eye_color": "brown",
-        "birth_year": "67BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/2/",
-        "films": [
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/1/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T16:53:08.575000Z",
-        "edited": "2014-12-20T21:17:50.463000Z",
-        "url": "https://swapi.dev/api/people/68/"
+        "homeworld": "Alderaan",
+        "pic": "https://www.starwars-union.de/bilder/news_2020/20200514_bail-organa.jpg"
     },
     {
+        "id": 67,
         "name": "Jango Fett",
-        "height": "183",
-        "mass": "79",
-        "hair_color": "black",
-        "skin_color": "tan",
-        "eye_color": "brown",
-        "birth_year": "66BBY",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/53/",
-        "films": [
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T16:54:41.620000Z",
-        "edited": "2014-12-20T21:17:50.465000Z",
-        "url": "https://swapi.dev/api/people/69/"
+        "homeworld": "Concord Dawn",
+        "pic": "https://jeuxpourtous.org/wp-content/uploads/2020/05/Star-Wars-Boba-Fett-appara%C3%AEtra-dans-la-nouvelle-saison-de.jpg"
     },
     {
+        "id": 68,
         "name": "Zam Wesell",
-        "height": "168",
-        "mass": "55",
-        "hair_color": "blonde",
-        "skin_color": "fair, green, yellow",
-        "eye_color": "yellow",
-        "birth_year": "unknown",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/54/",
-        "films": [
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/30/"
-        ],
-        "vehicles": [
-            "https://swapi.dev/api/vehicles/45/"
-        ],
-        "starships": [],
-        "created": "2014-12-20T16:57:44.471000Z",
-        "edited": "2014-12-20T21:17:50.468000Z",
-        "url": "https://swapi.dev/api/people/70/"
+        "homeworld": "Zolan",
+        "pic": "https://media.anakinworld.com/uploads/entries/original/personnage-zam-wesell.jpg"
     },
     {
+        "id": 69,
         "name": "Dexter Jettster",
-        "height": "198",
-        "mass": "102",
-        "hair_color": "none",
-        "skin_color": "brown",
-        "eye_color": "yellow",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/55/",
-        "films": [
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/31/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T17:28:27.248000Z",
-        "edited": "2014-12-20T21:17:50.470000Z",
-        "url": "https://swapi.dev/api/people/71/"
+        "homeworld": "Ojom",
+        "pic": "https://pbs.twimg.com/media/BTqOeKGIgAA1Z-O.jpg:large"
     },
     {
+        "id": 70,
         "name": "Lama Su",
-        "height": "229",
-        "mass": "88",
-        "hair_color": "none",
-        "skin_color": "grey",
-        "eye_color": "black",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/10/",
-        "films": [
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/32/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T17:30:50.416000Z",
-        "edited": "2014-12-20T21:17:50.473000Z",
-        "url": "https://swapi.dev/api/people/72/"
+        "homeworld": "Kamino",
+        "pic": "https://swrpggm.com/wp-content/uploads/2021/04/Lama-Su_FE.png"
     },
     {
+        "id": 71,
         "name": "Taun We",
-        "height": "213",
-        "mass": "unknown",
-        "hair_color": "none",
-        "skin_color": "grey",
-        "eye_color": "black",
-        "birth_year": "unknown",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/10/",
-        "films": [
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/32/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T17:31:21.195000Z",
-        "edited": "2014-12-20T21:17:50.474000Z",
-        "url": "https://swapi.dev/api/people/73/"
+        "homeworld": "Kamino",
+        "pic": "https://i.pinimg.com/originals/49/d9/0a/49d90a3c817b21210701993bc042bcb4.jpg"
     },
     {
+        "id": 72,
         "name": "Jocasta Nu",
-        "height": "167",
-        "mass": "unknown",
-        "hair_color": "white",
-        "skin_color": "fair",
-        "eye_color": "blue",
-        "birth_year": "unknown",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/9/",
-        "films": [
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/1/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T17:32:51.996000Z",
-        "edited": "2014-12-20T21:17:50.476000Z",
-        "url": "https://swapi.dev/api/people/74/"
+        "homeworld": "Coruscant",
+        "pic": "https://www.starwars-holonet.com/news/2016/20160210-alethea-macgrath-deces-une.jpg"
     },
     {
+        "id": 73,
         "name": "R4-P17",
-        "height": "96",
-        "mass": "unknown",
-        "hair_color": "none",
-        "skin_color": "silver, red",
-        "eye_color": "red, blue",
-        "birth_year": "unknown",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/28/",
-        "films": [
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T17:43:36.409000Z",
-        "edited": "2014-12-20T21:17:50.478000Z",
-        "url": "https://swapi.dev/api/people/75/"
+        "homeworld": "unknown",
+        "pic": "https://i.ytimg.com/vi/Eu2NS6ZlPu0/maxresdefault.jpg"
     },
     {
+        "id": 74,
         "name": "Wat Tambor",
-        "height": "193",
-        "mass": "48",
-        "hair_color": "none",
-        "skin_color": "green, grey",
-        "eye_color": "unknown",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/56/",
-        "films": [
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/33/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T17:53:52.607000Z",
-        "edited": "2014-12-20T21:17:50.481000Z",
-        "url": "https://swapi.dev/api/people/76/"
+        "homeworld": "Skako",
+        "pic": "https://swrpggm.com/wp-content/uploads/2021/04/Wat-Tambor_FE.png"
     },
     {
+        "id": 75,
         "name": "San Hill",
-        "height": "191",
-        "mass": "unknown",
-        "hair_color": "none",
-        "skin_color": "grey",
-        "eye_color": "gold",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/57/",
-        "films": [
-            "https://swapi.dev/api/films/5/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/34/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T17:58:17.049000Z",
-        "edited": "2014-12-20T21:17:50.484000Z",
-        "url": "https://swapi.dev/api/people/77/"
+        "homeworld": "Muunilinst",
+        "pic": "https://pbs.twimg.com/media/EaOrcMVWkAAJ1ju.jpg"
     },
     {
+        "id": 76,
         "name": "Shaak Ti",
-        "height": "178",
-        "mass": "57",
-        "hair_color": "none",
-        "skin_color": "red, blue, white",
-        "eye_color": "black",
-        "birth_year": "unknown",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/58/",
-        "films": [
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/35/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T18:44:01.103000Z",
-        "edited": "2014-12-20T21:17:50.486000Z",
-        "url": "https://swapi.dev/api/people/78/"
+        "homeworld": "Shili",
+        "pic": "http://pm1.narvii.com/7049/4995c7c6993bc732452283177b5faf3bf28b333dr1-236-170v2_uhq.jpg"
     },
     {
+        "id": 77,
         "name": "Grievous",
-        "height": "216",
-        "mass": "159",
-        "hair_color": "none",
-        "skin_color": "brown, white",
-        "eye_color": "green, yellow",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/59/",
-        "films": [
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/36/"
-        ],
-        "vehicles": [
-            "https://swapi.dev/api/vehicles/60/"
-        ],
-        "starships": [
-            "https://swapi.dev/api/starships/74/"
-        ],
-        "created": "2014-12-20T19:43:53.348000Z",
-        "edited": "2014-12-20T21:17:50.488000Z",
-        "url": "https://swapi.dev/api/people/79/"
+        "homeworld": "Kalee",
+        "pic": "https://www.starwars-delcourt.fr/images/rsz/67/67fd9ae1d2b38464e16cd10cdb54559c.jpg"
     },
     {
+        "id": 78,
         "name": "Tarfful",
-        "height": "234",
-        "mass": "136",
-        "hair_color": "brown",
-        "skin_color": "brown",
-        "eye_color": "blue",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/14/",
-        "films": [
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/3/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T19:46:34.209000Z",
-        "edited": "2014-12-20T21:17:50.491000Z",
-        "url": "https://swapi.dev/api/people/80/"
+        "homeworld": "Kashyyyk",
+        "pic": "https://i.pinimg.com/550x/72/6f/66/726f669d0a670e4d24095cda8a7d31ee.jpg"
     },
     {
+        "id": 79,
         "name": "Raymus Antilles",
-        "height": "188",
-        "mass": "79",
-        "hair_color": "brown",
-        "skin_color": "light",
-        "eye_color": "brown",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/2/",
-        "films": [
-            "https://swapi.dev/api/films/1/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T19:49:35.583000Z",
-        "edited": "2014-12-20T21:17:50.493000Z",
-        "url": "https://swapi.dev/api/people/81/"
+        "homeworld": "Alderaan",
+        "pic": "https://www.starwars-universe.com/images/encyclopedie/personnages/avatars_v6/raymusantilles_av.jpg"
     },
     {
+        "id": 80,
         "name": "Sly Moore",
-        "height": "178",
-        "mass": "48",
-        "hair_color": "none",
-        "skin_color": "pale",
-        "eye_color": "white",
-        "birth_year": "unknown",
-        "gender": "female",
-        "homeworld": "https://swapi.dev/api/planets/60/",
-        "films": [
-            "https://swapi.dev/api/films/5/",
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T20:18:37.619000Z",
-        "edited": "2014-12-20T21:17:50.496000Z",
-        "url": "https://swapi.dev/api/people/82/"
+        "homeworld": "Umbara",
+        "pic": "data:image/jpeg;base64,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"
     },
     {
+        "id": 81,
         "name": "Tion Medon",
-        "height": "206",
-        "mass": "80",
-        "hair_color": "none",
-        "skin_color": "grey",
-        "eye_color": "black",
-        "birth_year": "unknown",
-        "gender": "male",
-        "homeworld": "https://swapi.dev/api/planets/12/",
-        "films": [
-            "https://swapi.dev/api/films/6/"
-        ],
-        "species": [
-            "https://swapi.dev/api/species/37/"
-        ],
-        "vehicles": [],
-        "starships": [],
-        "created": "2014-12-20T20:35:04.260000Z",
-        "edited": "2014-12-20T21:17:50.498000Z",
-        "url": "https://swapi.dev/api/people/83/"
+        "homeworld": "Utapau",
+        "pic": "https://www.starwars-universe.com/images/encyclopedie/personnages/avatars_v6/TionMedonavatar.jpeg"
     }
 ]

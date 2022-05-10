@@ -1,9 +1,8 @@
 const express = require("express");
 const app = express();
 const people = require("./jsons/star_wars_people.json");
-const thePeople = require("./jsons/star_wars_people_new_list.json");
-const axios = require("axios");
-const fs = require("fs");
+// const axios = require("axios");
+// const fs = require("fs");
 
 app.use(function (req, res, next) {
   //Enabling CORS
@@ -14,7 +13,7 @@ app.use(function (req, res, next) {
   });
 
 app.get("/people", (req,res) => {
-  res.status(200).json(thePeople)
+  res.status(200).json(people)
 })
 
 // function saveInFile(fileName, newList) {
